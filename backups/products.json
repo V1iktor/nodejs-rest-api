@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "60d27751911c74f801395f11"
+  },
+  "name": "another test name",
+  "description": "another test description",
+  "price": 500,
+  "count": 25,
+  "imageUrl": "https://aokmo.ru/upload/iblock/7fe/road_sign_361513_960_720.jpg"
+},{
+  "_id": {
+    "$oid": "60d27765911c74f801395f12"
+  },
+  "name": "test name",
+  "description": "test description",
+  "price": 1500,
+  "count": 125,
+  "imageUrl": "https://aokmo.ru/upload/iblock/7fe/road_sign_361513_960_720.jpg"
+},{
+  "_id": {
+    "$oid": "60d29041eb989e2590828c93"
+  },
+  "description": "Kitty Cat",
+  "name": "test",
+  "price": 12378,
+  "count": 1131,
+  "imageUrl": "https://cdn.pixabay.com/photo/2020/03/23/08/45/cat-4959941__340.jpg",
+  "__v": 0
+}]
